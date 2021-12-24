@@ -19,3 +19,11 @@
     - 添加模组 LambdaBetterGrass (草方块平滑连接材质)
     - 添加模组 Item Model Fix (细节模型修复)
     - 移除模组 Better Fps (错误)
+- 1.18.1-R3
+  - Since 2021/12/24
+  - Updates:
+    - 移除模组 Nimble
+    - 外置登录 (统一通行证) 支持, 待更新
+    - 模组 Not Enough Crashes 4.1.3-1.18 -> 4.1.3-1.18.1
+    - 模组 Kappa 3.0.1 -> 3.0.2
+    - 模组 Fabric API 0.44.0 -> 0.45.0
