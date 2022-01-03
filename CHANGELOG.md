@@ -28,8 +28,20 @@
     - 支持自建外置登录 & 皮肤站: https://r.huacun.club/
     - 模组 Not Enough Crashes 4.1.3-1.18 -> 4.1.3-1.18.1
     - 模组 Kappa 3.0.1 -> 3.0.2
-    - 模组 Fabric API 0.44.0 -> 0.45.0
+    - 模组 Fabric API 0.44.0 -> 0.45.1
+    - 模组 LambdaBetterGrass 1.2.1 -> 1.2.2
+    - 模组 CITResewn 0.8.1 -> 0.8.2
     - 添加模组 Crosshair Mod
     - 添加模组 IMBlockerFabric
+    - 添加模组 AntiGhost
+    - 添加模组 MouseTweaks
+    - 添加模组 Bobby
+    - 添加模组 ARRP
+    - 添加模组 Cloth API
+    - 添加模组 Architectury API
+    - 添加模组 Slight Gui Modifications
+    - 添加模组 Presence Footsteps
+    - 添加 Sodium 模组翻译 
+    - 移除模组 MouseWheelie
     - 优化键位设定、更新启动器配置
     - 修复了加载玩家头颅时可能导致客户端崩溃的问题
